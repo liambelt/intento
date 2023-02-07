@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    background-image: url(../images/back.jpg);
+}
+
+.fondovioleta {
+    background-color: violet;
+    background-image: url(../images/hell.jpg);
+    
+}
+
+.morado {
+    background-color: rgb(163, 30, 240);
+    background-image: url(../images/lil.jpg);
+    background-image: url(../images/wall.png);
+    background-size: 1500px;
+
+}
+
+.fondoamarillo{
+background-color: rgb(165, 24, 184);
+background-image: url(../images/lil.jpg);
+}
+
+.azul{
+    background-color: rgb(0, 0, 0);
+    background-image: url(../images/dr.jpg);
+    background-size: 450px;
+    }
+
+.rojo{
+        background-color: rgb(165, 24, 184);
+        background-image: url(../images/rojo.png.crdownload);
+        }
+
+
+
+.verde{
+    background-color: antiquewhite;
+    background-image: url(../images/fond.jpg);
+    background-size: 700px;
+    
+}
+
+.lol{
+    background-color: antiquewhite;
+    background-image: url(../images/bea.jpg);
+    background-size: 1500px;
+}
+
+.altura1 {
+    height: 5rem;
+}
+
+.altura2 {
+    height: 20rem;
+}
+
+.altura3 {
+    height: 20rem;
+}
+
+.altura4 {
+    height: 20rem;
+}
+
+.altura5 {
+    height: 20rem;
+}
